@@ -1,5 +1,7 @@
 # Blind Spot
 
+> **Hackathon project.** Built by Kissa Zehra together with my teammate [Aiza Gazyani](https://github.com/Aiza166) at the NASA Space Apps Challenge 2026 (team Hehehehehe, Karachi). This is my copy with the full commit history; the original repository is [Aiza166/BlindSpot-FIRMS](https://github.com/Aiza166/BlindSpot-FIRMS).
+
 **A harmonized MODIS + VIIRS burning calendar for Pakistan and northern India, which says when the correction can't be trusted.**
 
 [**Live app: blindspot-firms.pages.dev**](https://blindspot-firms.pages.dev) · NASA Space Apps Challenge 2026 · Challenge: *Harmonization of MODIS and VIIRS Hot Spots* · Team **Hehehehehe**: Aiza Gazyani and Kissa Zehra
